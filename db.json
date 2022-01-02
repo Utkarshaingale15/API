@@ -1,0 +1,383 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John",
+      "email": "john45@gmail.com",
+      "gender": "male",
+      "contact": "9876543210"
+    },
+    {
+      "id": 2,
+      "name": "Smith",
+      "email": "smith46@gmail.com",
+      "gender": "male",
+      "contact": "9879243210"
+    },
+    {
+      "id": 3,
+      "name": "Rosa",
+      "email": "rosa78@gmail.com",
+      "gender": "female",
+      "contact": "9876542580"
+    },
+    {
+      "id": 4,
+      "name": "Jonny",
+      "email": "jonny645@gmail.com",
+      "gender": "male",
+      "contact": "9876893210"
+    },
+    {
+      "id": 5,
+      "name": "Sweety",
+      "email": "sweety7@gmail.com",
+      "gender": "female",
+      "contact": "9876543267"
+    },
+   
+    {
+      "name": "Alex",
+      "email": "alex745@gmail.com",
+      "gender": "male",
+      "contact": "9876923210",
+      "id": 6
+    }
+  ],
+  "address": [
+    {
+      "id": 1,
+      "street": "Park street",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "country": "India"
+    },
+    {
+      "id": 2,
+      "street": "Hillside Drive",
+      "city": "Columbia",
+      "state": "Alabama",
+      "country": "U.S.A"
+    },
+    {
+      "id": 3,
+      "street": "Xihu road",
+      "city": "Beijing",
+      "state": "Shanghai",
+      "country": "China"
+    },
+    {
+      "id": 4,
+      "street": "Russell street",
+      "city": "Panaji",
+      "state": "Goa",
+      "country": "India"
+    },
+    {
+      "id": 5,
+      "street": "Avenue street",
+      "city": "Ontario",
+      "state": "Toronto",
+      "country": "Canada"
+    }
+  ],
+  "qualifications": [
+    {
+      "id": 1,
+      "ssc": "yes",
+      "hsc": "yes",
+      "graduate": "no",
+      "post-graduate": "no"
+    },
+    {
+      "id": 2,
+      "ssc": "yes",
+      "hsc": "no",
+      "graduate": "no",
+      "post-graduate": "no"
+    },
+    {
+      "id": 3,
+      "ssc": "yes",
+      "hsc": "yes",
+      "graduate": "yes",
+      "post-graduate": "no"
+    },
+    {
+      "id": 4,
+      "ssc": "yes",
+      "hsc": "yes",
+      "graduate": "yes",
+      "post-graduate": "yes"
+    },
+    {
+      "id": 5,
+      "ssc": "yes",
+      "hsc": "yes",
+      "graduate": "yes",
+      "post-graduate": "no"
+    }
+  ],
+  "educational_details": [
+    {
+      "id": 1,
+      "name": "Alex",
+      "degree": "B.Tech",
+      "branch": "Computer",
+      "course": "Full stack development"
+    },
+    {
+      "id": 2,
+      "name": "Peter",
+      "degree": "M.Tech",
+      "branch": "IT",
+      "course": "Artificial Intelligence"
+    },
+    {
+      "id": 3,
+      "name": "Soni",
+      "degree": "B.E",
+      "branch": "Civil",
+      "course": "Construction work"
+    },
+    {
+      "id": 4,
+      "name": "Aaradya",
+      "degree": "IIT",
+      "branch": "Computer Science",
+      "course": "Web applications development"
+    },
+    {
+      "id": 5,
+      "name": "Rocky",
+      "degree": "B.E",
+      "branch": "Mechanical",
+      "course": "Machinery"
+    }
+  ],
+  "educational_institute": [
+    {
+      "id": 1,
+      "ssc": "Rising star school",
+      "hsc": "Sampada junior college",
+      "graduate": "IIT college",
+      "post-graduate": "Aradya college"
+    },
+    {
+      "id": 2,
+      "ssc": "Horizon school",
+      "hsc": "Pragati junior college",
+      "graduate": "Ferguessons college",
+      "post-graduate": "N.M.P college"
+    },
+    {
+      "id": 3,
+      "ssc": "Wisdom Elementary school",
+      "hsc": "Mahavir junior college",
+      "graduate": "Sandip Foundation",
+      "post-graduate": "Saraswati college of engg"
+    },
+    {
+      "id": 4,
+      "ssc": "Novodaya vidyalaya",
+      "hsc": "Adarsh junior college",
+      "graduate": "S.V.P college of arts",
+      "post-graduate": "Krishna medical college"
+    },
+    {
+      "id": 5,
+      "ssc": "Monarch primary school",
+      "hsc": "St.John junior college",
+      "graduate": "St.Mary college",
+      "post-graduate": "Govt technical college"
+    }
+  ],
+  "countrywise_universities": [
+    {
+      "id": 1,
+      "country": "India",
+      "university1": "IIT Bombay",
+      "university2": "University of Delhi",
+      "university3": "Savitribai Phule Pune University"
+    },
+    {
+      "id": 2,
+      "country": "U.S.A",
+      "university1": "Columbia University",
+      "university2": "Yale University",
+      "university3": "University of California"
+    },
+    {
+      "id": 3,
+      "country": "Germany",
+      "university1": "Humboldt University of Berlin",
+      "university2": "Heidelberg University",
+      "university3": "University of Hamburg"
+    },
+    {
+      "id": 4,
+      "country": "Canada",
+      "university1": "University of Toronto",
+      "university2": "University of Ottawa",
+      "university3": "University of Montreal"
+    },
+    {
+      "id": 5,
+      "country": "Italy",
+      "university1": "University of Padua",
+      "university2": "University of Pisa",
+      "university3": "University of Trento"
+    }
+  ],
+  "provinces_countries": [
+    {
+      "id": 1,
+      "country": "India",
+      "province1": "Bombay",
+      "province2": "Calcutta",
+      "province3": "Madras"
+    },
+    {
+      "id": 2,
+      "country": "U.S.A",
+      "province1": "California",
+      "province2": "New Jersey",
+      "province3": "New York"
+    },
+    {
+      "id": 3,
+      "country": "China",
+      "province1": "Beijing",
+      "province2": "Henan",
+      "province3": "Zhejiang"
+    },
+    {
+      "id": 4,
+      "country": "Canada",
+      "province1": "Ottawa",
+      "province2": "Montera",
+      "province3": "Ontario"
+    },
+    {
+      "id": 5,
+      "country": "France",
+      "province1": "Paris",
+      "province2": "Cannes",
+      "province3": "Colmar"
+    }
+  ],
+  "cities_statewise": [
+    {
+      "id": 1,
+      "state": "Maharashtra",
+      "city1": "Pune",
+      "city2": "Nasik",
+      "city3": "Mumbai"
+    },
+    {
+      "id": 2,
+      "state": "Rajasthan",
+      "city1": "Jaipur",
+      "city2": "Udaipur",
+      "city3": "Jodhpur"
+    },
+    {
+      "id": 3,
+      "state": "Uttar Pradesh",
+      "city1": "Kanpur",
+      "city2": "Varanasi",
+      "city3": "Haridwar"
+    },
+    {
+      "id": 4,
+      "state": "Goa",
+      "city1": "Panaji",
+      "city2": "Canacona",
+      "city3": "Valpoi"
+    },
+    {
+      "id": 5,
+      "state": "Madhya Pradesh",
+      "city1": "Bhopal",
+      "city2": "Indore",
+      "city3": "Jabalpur"
+    }
+  ],
+  "rivers_countries": [
+    {
+      "id": 1,
+      "country": "India",
+      "river1": "Ganga",
+      "river2": "Narmada",
+      "river3": "Godavari"
+    },
+    {
+      "id": 2,
+      "country": "Canada",
+      "river1": "Mackenzie",
+      "river2": "Yukon",
+      "river3": "Fraser"
+    },
+    {
+      "id": 3,
+      "country": "Italy",
+      "river1": "Po",
+      "river2": "Arno",
+      "river3": "Piave"
+    },
+    {
+      "id": 4,
+      "country": "Singapore",
+      "river1": "Geylang",
+      "river2": "Kallang",
+      "river3": "Rochor"
+    },
+    {
+      "id": 5,
+      "country": "France",
+      "river1": "Seine",
+      "river2": "Loire",
+      "river3": "Garonne"
+    }
+  ],
+  "crops_statewise": [
+    {
+      "id": 1,
+      "state": "Maharashtra",
+      "crop1": "Rice",
+      "crop2": "Wheat",
+      "crop3": "Jowar"
+    },
+    {
+      "id": 2,
+      "state": "Oddisa",
+      "crop1": "Rice",
+      "crop2": "Jute",
+      "crop3": "Turmeric"
+    },
+    {
+      "id": 3,
+      "state": "Madhya Pradesh",
+      "crop1": "Soyabean",
+      "crop2": "Wheat",
+      "crop3": "Barley"
+    },
+    {
+      "id": 4,
+      "state": "Goa",
+      "crop1": "Rice",
+      "crop2": "Cashew",
+      "crop3": "Ragi"
+    },
+    {
+      "id": 5,
+      "state": "Gujarat",
+      "crop1": "Cotton",
+      "crop2": "Groundnut",
+      "crop3": "Paddy"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
